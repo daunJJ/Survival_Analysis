@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="https://github.com/daunJJ/Survival_Analysis/assets/109944763/7cae6567-7305-4ec8-956d-552dc2660734" width="500" height= "200"/>
+<img src="https://github.com/daunJJ/Survival_Analysis/assets/109944763/7cae6567-7305-4ec8-956d-552dc2660734" width="510" height= "230"/>
 
 **생존 상태**
 * 순환 전이가 없는 8가지 다중 상태 모형 정의
