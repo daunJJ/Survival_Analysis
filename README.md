@@ -7,14 +7,15 @@
 * 데이터: 비공개
 
 ## Content
-### 1. 폐암 발병 데이터 분석 
+**1. 폐암 발병 데이터 분석**
+
 <img src="https://github.com/daunJJ/Survival_Analysis/assets/109944763/8abdee83-dcc6-44dc-8bf3-7ea60fb442b3" width="350"/>
 
 - [5가지 다중 상태 모형 정의 및 3가지 모델 적용](https://github.com/daunJJ/Survival_Analysis/blob/main/LungCancer.R) 
 
 <br>
 
-### 2. 중환자실 호흡기 탈부착 데이터 분석
+**2. 중환자실 호흡기 탈부착 데이터 분석**
 
 <img src="https://github.com/daunJJ/Survival_Analysis/assets/109944763/653cbc75-5a1e-4d6f-a6ff-620dd5d11e9e" width="320"/>
 
